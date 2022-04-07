@@ -1,0 +1,30 @@
+{
+  "name": "react-native-progress-circle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/inderweb/react-native-progress-circle",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inderweb/react-native-progress-circle.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "progress",
+    "circle",
+    "react native",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Inder Singh <inderweb.com@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.68.0"
+  }
+}
