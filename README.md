@@ -6,22 +6,22 @@ This project was created to provide simple circular progress with text in it. Wi
 
 # How to use it
 
-```
+```javascript
 // Import from package.
 import { ProgressCircle } from "react-native-progress-circle";
 import { Text } from "react-native";
 
 <ProgressCircle
-    percent={66}
-    radius={70}
-    borderWidth={10}
-    color={"green"}
-    shadowColor="orange"
-    bgColor="#fff"
-    >
-    <Text style={{ color: "gray" }}>Next Pay</Text>
-    <Text style={{ color: "#000", fontWeight: "bold" }}> 3 days</Text>
-</ProgressCircle>
+  percent={66}
+  radius={70}
+  borderWidth={10}
+  color={"green"}
+  shadowColor="orange"
+  bgColor="#fff"
+>
+  <Text style={{ color: "gray" }}>Next Pay</Text>
+  <Text style={{ color: "#000", fontWeight: "bold" }}> 3 days</Text>
+</ProgressCircle>;
 ```
 
 # Options
